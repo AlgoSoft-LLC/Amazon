@@ -7,7 +7,7 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 
 public class BaseStartApp {
-	
+	// add a comment
    WebDriver driver;
 	
 	@BeforeTest
